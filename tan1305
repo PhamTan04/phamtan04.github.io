@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+ <html>
+  
+  <style>
+  
+   body { background-color :green;}
+   
+   </style>
+   
+   
+   <body>
+   <section>
+   <div class="section section" data-id="1">
+   <div class="container container" data-id="5">TRANG CHỦ </div>
+   <div class="block block" data="2"> 
+   <div class="single_image single_image addons era_single_image single_image_nostyle nostyle shadow" data-id="15">
+   <a href="/" target>
+   <img src="https://img.eraweb.io/http/original/baho.eraweb.net/20221005152656_3912_1664958416.9953.png" alt>
+   </a></div>
+   </div>
+   <div class="block block" data="3">
+       <div class="menu addons era_menu menu_nostyle nostyle open" data-id="9204">
+          <div class="customizable burger is_main_menu  ">
+		  <a href="javascript:;" onclick="toggleMenu(this)" class="burger-icon  default">
+		  <span></span>
+		  <span></span>
+		  <span></span>
+		  </a>
+		  </div>
+	  <div class="customizable list_item  sub-icon-arrow menu-main menu-horizontal  ">
+	    <ul class="menu_list_item wrap-menu menu_list_item wrap-menu justify-content-between ">
+		<li class="item has-menu active">
+		<a href="/" target="_self">Về chúng tôi</a>
+		<span class="arr-down" style="width: 522px;"> 
+		</span>
+		<ul class="submenu">
+		<li class>
+		  <a href="am-thuc"> ẩm thực</a>
+		  </li>
+		
+		</li>
+		
+		</ul>
+		
+   </div>
+   </section>
+
+  
+ 
+   
+       <h1> Khu du lịch BA HỒ </h1>
+	  
+	   
+	   <video width="600" controls>
+ <source src="https://eraweb.s3.ap-southeast-1.amazonaws.com/baho.eraweb.net/video/20220428104435_3_1651117475.1611.mp4" type="video/mp4">
+ 
+ </video>
+ 
+	     <h2> giới thiệu về BA HỒ </h2>
+		 <p> Địa chỉ:<br>
+Thôn Vạn Thuận, Xã Ninh Ích, Thị xã Ninh Hòa, Tỉnh Khánh Hòa</p>
+
+ <source src="https://eraweb.s3.ap-southeast-1.amazonaws.com/baho.eraweb.net/video/20220428104435_3_1651117475.1611.mp4" type="video/mp4">
+ 
+ <p> xem vị rí<a href="https://www.google.com/maps/dir//khu+du+l%E1%BB%8Bch+Ba+H%E1%BB%93+94RQ%2B5HC,+Van+Thuan+Hamlet,+Commune+Ninh+%C3%ADch+Ninh+H%C3%B2a,+Kh%C3%A1nh+H%C3%B2a+650000/@12.3904458,109.1388813,16z/data=!4m8!4m7!1m0!1m5!1m1!1s0x31704198ae4d002f:0x8f8b378263998907!2m2!1d109.1388813!2d12.3904458"> ở đây </a> </p>
+ <table>
+     <tr>
+         <td> 
+ <img src="https://img.eraweb.io/http/original/baho.eraweb.net/20221005153031_29_1664958631.4682.jpg" width="434" height="651"></td>
+<td>bắt nguồn từ đỉnh Hòn Sơn ( Cao 660m )  suối Ba Hồ chảy men theo triền đá, đi xuyên qua 
+ hệ sinh thái rừng nguyên sinh xanh tươi quanh năm, tạo nên một hệ thống các tầng thác lớn 
+ nhỏ đan xen nhau, hình thành 3 hồ nước lớn ở những độ cao khác nhau. Khung cảnh hoang sơ 
+ của núi rừng, không khí mát mẻ cùng tiếng nước chảy róc rách trở thành chất xúc tác để những
+ đôi chân chinh phục bắt đầu khám phá. Lối đi mòn theo suối là cung đường độc đạo được phủ mát 
+ bởi những bóng cây cổ thụ, hứa hẹn sẽ là những trải nghiệm thú vị dành cho bạn.</td>
+     </tr>
+</table>
+ 
+
+
+   </body>
+ </html>
